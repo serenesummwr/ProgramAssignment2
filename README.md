@@ -18,7 +18,7 @@ TextCounter is a Java program that reads a text file and provides various statis
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/TextCounter.git
+    git clone https://github.com/serenesummwr/ProgramAssignment2.git
     ```
 
 2. Navigate to the project directory:
